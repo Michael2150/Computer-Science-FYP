@@ -1,10 +1,10 @@
-## Project Title:
-### Title goes here
+# Final Year Project - Bachelor of Science (Hons) Computer Science <br><br> Sun Life Dental Mobile Application Upgrade
 
-## Project Description:
-```
-Empty
-```
+# Sun Life Dental Mobile Application Upgrade
+
+
+## Project Description
+This final year project involves the redevelopment of an existing mobile application in collaboration with Sun Life. The primary focus is on enhancing the user experience and user interface of the application. The 
 
 ## Project Repository:
 ```
